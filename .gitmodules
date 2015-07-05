@@ -1,0 +1,6 @@
+[submodule "caffe"]
+	path = caffe
+	url = https://github.com/BVLC/caffe.git
+[submodule "deepdream"]
+	path = deepdream
+	url = https://github.com/google/deepdream.git
